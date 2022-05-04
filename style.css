@@ -148,3 +148,17 @@ img {
 .left + p {
     margin: 0;
 }
+
+/* here start the footer */
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.footer p {
+    margin: 0;
+}
