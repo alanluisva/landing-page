@@ -105,3 +105,28 @@ img {
 .drink {
     width:150px; 
 }
+
+/* here starts the quote-section */
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.autor {
+    color: #1F2937;
+    font-weight: bold;
+    font-size: 18px;
+    align-self: flex-end;
+}
+
+/* here start call to action section */
