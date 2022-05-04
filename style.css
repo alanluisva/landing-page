@@ -21,7 +21,7 @@ ul {
     margin-bottom: 10px;
 }
 
-.awesome p, .right a {
+p, a {
     font-size: 18px;
     color: #E5E7EB;
     margin-bottom: 10px;
@@ -130,4 +130,17 @@ img {
 }
 
 /* here start call to action section */
+.call-section {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    gap: 120px;
+    margin: 90px 200px;
+    padding: 40px 0;
+    border-radius: 7px;
+    align-items: center;
+}
 
+.sign {
+    border: 2px solid #F9FAF8;
+}
