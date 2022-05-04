@@ -37,7 +37,7 @@ ul {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    padding: 25px 200px 100px;
+    padding: 25px 200px 100px; 
 }
 
 .main {
@@ -73,20 +73,35 @@ img {
 .imagen img {
     width: 150px;
     height: auto;
+    border: 4px solid #3882F6;
+    border-radius: 15px;
 }
 
 .information {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .content {
     display: flex;
+    gap: 52px;
 }
 
 .information-text {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
+    margin: 40px 0;
+}
+
+.text {
+    font-size: 16px;
+    color: #1F2937;
+    text-align: center;
+}
+
+.drink {
+    width:150px; 
 }
