@@ -4,22 +4,34 @@ Web page created for [The Odin Project](https://www.theodinproject.com/lessons/f
 ## Credits:
 The images used were downloads from [Unsplash.](https://unsplash.com/ "Unsplash")
 
-Vintage coffee shop counter
-Nafinia Putra
-@nputra
+Vintage coffee shop counter <br />
+Nafinia Putra <br />
+@nputra <br />
 
-Espresso Shot
-Kris Gerhard
-@krsp
+------------
 
-Iced coffee latte
-Oat Canada
-@oatcanada
 
-Cappuccino
-Fabio Mascio
-@fabiomascio
+Espresso Shot <br />
+Kris Gerhard <br />
+@krsp <br />
 
-Coffee in Thailand
-One Zen
-@onezen
+------------
+
+
+Iced coffee latte <br />
+Oat Canada <br />
+@oatcanada <br />
+
+------------
+
+
+Cappuccino <br />
+Fabio Mascio <br />
+@fabiomascio <br />
+
+------------
+
+
+Coffee in Thailand <br />
+One Zen <br />
+@onezen <br />
